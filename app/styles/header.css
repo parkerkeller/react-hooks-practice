@@ -1,0 +1,13 @@
+.list {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+} 
+
+.link {
+  text-decoration: none;
+  color: black;
+  margin-right: 100px;
+  font-size: 24px;
+}
+
